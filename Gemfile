@@ -42,3 +42,4 @@ group :development, :test do
   gem 'guard-livereload'
   gem 'guard-rspec'
 end
+gem "twitter-bootstrap-rails"
