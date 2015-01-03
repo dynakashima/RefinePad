@@ -40,6 +40,7 @@ gem 'spring',        group: :development
 group :development, :test do
   gem 'guard'
   gem 'guard-livereload'
+  gem 'rspec-rails'
   gem 'guard-rspec'
 end
 gem "twitter-bootstrap-rails"
